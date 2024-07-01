@@ -1,0 +1,19 @@
+{
+"todoList": [
+        {"task": "Fare la spesa", "completed": false},
+        {"task": "Appuntamento dal dentista", "completed": false},
+        {"task": "Riunione di team online", "completed": false},
+        {"task": "Pagare le bollette", "completed": false},
+        {"task": "Chiamare il meccanico", "completed": false},
+        {"task": "Prenotare un volo per le vacanze", "completed": false},
+        {"task": "Finire il progetto di lavoro", "completed": false},
+        {"task": "Preparare la cena per gli ospiti", "completed": false},
+        {"task": "Pulire la casa", "completed": false},
+        {"task": "Completare l'iscrizione alla palestra", "completed": false},
+        {"task": "Leggere il libro iniziato la scorsa settimana", "completed": false},
+        {"task": "Scrivere un articolo per il blog", "completed": false},
+        {"task": "Ripassare per l'esame di domani", "completed": false},
+        {"task": "Aggiornare il curriculum", "completed": false},
+        {"task": "Passeggiare con il cane", "completed": false}
+    ]
+}
