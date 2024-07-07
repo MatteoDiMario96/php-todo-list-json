@@ -40,6 +40,6 @@ Permettere il toggle del task (completato/non completato) Abilitare l’eliminaz
 - In index.php devo :
 
     - Creare un form per aggiungere una toDo alla lista. 
-        - 
+        - Collegato in v-model allo script 
             - Che poi se tutto settato correttamente va ad aggiungere al json il toDo dell'utente. 
 
